@@ -1,0 +1,16 @@
+{
+  "name": "Babel",
+  "version": "0.0.0",
+  "description": "Babel Transpiler Test site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Babel",
+    "ES6",
+    "Transpiler"
+  ],
+  "author": "Brett <brett@WIPDeveloper.com>",
+  "license": "MIT"
+}

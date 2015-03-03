@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-less": "^3.0.1",
+    "gulp-livereload": "^3.8.0",
+    "gulp-minify-css": "^0.4.6",
+    "gulp-util": "^3.0.3"
+  }
+}

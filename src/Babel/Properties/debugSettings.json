@@ -1,0 +1,9 @@
+{
+  "profiles": [
+    {
+      "name": "IIS Express",
+      "launchBrowser": true,
+      "launchUrl": "index.html"
+    }
+  ]
+}
