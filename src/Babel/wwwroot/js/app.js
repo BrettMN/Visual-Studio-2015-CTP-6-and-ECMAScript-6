@@ -70,4 +70,15 @@ var _classCallCheck = function (instance, Constructor) { if (!(instance instance
 	l("default params");
 	defaultParam();
 	defaultParam("param sent");
+
+	// other
+	var wordSpliter = function (word) {
+		return word.split("");
+	};
+	var letters = wordSpliter("wipdeveloper");
+	for (var _iterator = letters[Symbol.iterator](), _step; !(_step = _iterator.next()).done;) {
+		var letter = _step.value;
+
+		console.log(letter);
+	}
 })();

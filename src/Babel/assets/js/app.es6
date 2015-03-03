@@ -51,4 +51,11 @@
 	defaultParam();
 	defaultParam('param sent');
 
+	// other
+	var wordSpliter = (word)=>{return word.split('')}
+	var letters = wordSpliter('wipdeveloper');
+	for(let letter of letters){
+	  console.log(letter);
+	}
+
 })();
